@@ -172,7 +172,7 @@ python3 train_model.py
 
 Have questions or want to contribute?
 
-* GitHub: [@your-username](https://github.com/your-username)
+* GitHub: [@ShadowMonarchX](https://github.com/ShadowMonarchX)
 * Issues: Use GitHub Issues tab to report bugs or request features
 
 ---
