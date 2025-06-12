@@ -80,7 +80,7 @@ bangalore-home-price-prediction/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/<your-username>/bangalore-home-price-prediction.git
+git clone https://github.com/ShadowMonarchX/bangalore-home-price-prediction.git
 cd bangalore-home-price-prediction
 ```
 
